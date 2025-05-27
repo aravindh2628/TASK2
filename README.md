@@ -1,6 +1,7 @@
 Titanic Dataset EDA
 
 This project performs an Exploratory Data Analysis (EDA) on the Titanic dataset using Python libraries including Pandas, Seaborn, Matplotlib, and Plotly. The goal is to visualize data distributions, correlations, and patterns based on passenger features like age, class, fare, and survival.
+
 📁 Dataset
 
 The Titanic dataset is loaded directly using seaborn’s built-in load_dataset('titanic') function. It includes fields like:
